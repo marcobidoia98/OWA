@@ -1,12 +1,12 @@
 
 
-#Python implementation of Ordered Weighted Averaging (OWA) or Weighted Ordered Weighted Averaging (WOWA) aggregation functions.
+Python implementation of Ordered Weighted Averaging (OWA) or Weighted Ordered Weighted Averaging (WOWA) aggregation functions.
 Designed to work with large datasets.
 
 Numpy, Pandas and Scipy libraries are required.
 
 
-#Relevant literature on the theory behind those methods:
+Relevant literature on the theory behind those methods:
 
 Yager (1988)
 
@@ -21,7 +21,7 @@ Llamazares (2013)
 https://doi.org/10.1002/int.21581
 
 
-#Example of risk assessments applications:
+Example of risk assessments applications:
 
 Cian et al (2021)
 
